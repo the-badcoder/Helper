@@ -33,6 +33,7 @@ We will practice problems from both [HackerRank](https://www.hackerrank.com/) & 
 * **Sorting & Searching**
   - Different types of sorting algorithms.
   - Bubble sort.
+  - Insertion sort.
   - Linear Search.
   - Binary Search.
   - Time Complexity of Sorting & Searching.
@@ -74,3 +75,4 @@ We will practice problems from both [HackerRank](https://www.hackerrank.com/) & 
  - **Heap**
  - **Sliding Window**
  - **Two Pointers**.
+ - **Backtracking**.
