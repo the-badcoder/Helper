@@ -18,7 +18,7 @@ We will practice problems from both [HackerRank](https://www.hackerrank.com/) & 
 * **Time & Space Complexity**
   - What is Time Complexity.
   - What is Space Complexity.
-  - Discuss String & Array problems Time & Space Complexity.
+  - How to calculate Time & Space Complexity.
 
 * **Linked List**
   - Create a Linked List.
