@@ -4,8 +4,12 @@ We will practice problems from both [HackerRank](https://www.hackerrank.com/) & 
 
 **Topics:**
 
+* **Easy & Adhoc Problems**
+   - Basic problems solving.
+   - Discussions.
+   - Different types of Adhoc problems.
+
 * **Array**
-  - Input/Output system in Interview/Programming Problems.
   - Fixed Size Array.
   - Search on Array.
   - Dynamic Array.
